@@ -1,0 +1,1 @@
+Licence lib-test-b
