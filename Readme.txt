@@ -1,1 +1,1 @@
-Lib-test-b
+Lib-test-b version 2.0.0
